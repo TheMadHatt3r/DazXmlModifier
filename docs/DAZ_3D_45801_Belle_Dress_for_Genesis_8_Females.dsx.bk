@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentDBInstall VERSION="1.0">
+ <Products>
+  <Product VALUE="Belle Dress for Genesis 8 Females">
+   <StoreID VALUE="DAZ 3D"/>
+   <GlobalID VALUE="96658bbb-0ea5-4d4c-a694-f9a7d279c862"/>
+   <ProductToken VALUE="45801"/>
+   <Artists>
+    <Artist VALUE="Aave Nainen"/>
+    <Artist VALUE="Daz Originals"/>
+    <Artist VALUE="Jgreenlees"/>
+   </Artists>
+   <Assets>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/Belle Dress/Belle Dress.duf">
+     <ContentType VALUE="Follower/Wardrobe/Dress"/>
+     <Audience VALUE="Children"/>
+     <Categories>
+      <Category VALUE="/Default/Wardrobe/Dresses"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Genesis 8/Female"/>
+     </Compatibilities>
+     <CompatibilityBase VALUE="/Belle Dress for Genesis 8 Females/Belle Dress"/>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/Belle Dress/Materials/3Delight/Belle Dress.duf">
+     <ContentType VALUE="Preset/Materials/RSL"/>
+     <Audience VALUE="Children"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/Belle Dress/Materials/Iray/Belle Dress.duf">
+     <ContentType VALUE="Preset/Materials/MDL"/>
+     <Audience VALUE="Children"/>
+     <Categories>
+      <Category VALUE="/Default/Materials/Iray/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Compatibilities>
+      <Compatibility VALUE="/Belle Dress for Genesis 8 Females/Belle Dress"/>
+     </Compatibilities>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+   </Assets>
+   <SupportAssets VALUE="/Runtime/Support/DAZ_3D_45801_Belle_Dress_for_Genesis_8_Females.dsx">
+    <SupportAsset VALUE="/People/Genesis 8 Female/Clothing/Belle Dress/Belle Dress.png"/>
+    <SupportAsset VALUE="/People/Genesis 8 Female/Clothing/Belle Dress/Belle Dress.tip.png"/>
+    <SupportAsset VALUE="/People/Genesis 8 Female/Clothing/Belle Dress/Materials/3Delight/Belle Dress.png"/>
+    <SupportAsset VALUE="/People/Genesis 8 Female/Clothing/Belle Dress/Materials/Iray/Belle Dress.png"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_45801_Belle_Dress_for_Genesis_8_Females.dsa"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_45801_Belle_Dress_for_Genesis_8_Females.dsx"/>
+    <SupportAsset VALUE="/Runtime/Support/DAZ_3D_45801_Belle_Dress_for_Genesis_8_Females.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Belle Dress/Belle Dress Plain Bump.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Moyra/Belle/BelleDress.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Moyra/Belle/BelleDress_B.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Moyra/Belle/BelleDress_D.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Moyra/Belle/BelleDress_N.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Moyra/Belle/BelleDress_S.jpg"/>
+    <SupportAsset VALUE="/Runtime/Textures/Moyra/Belle/BelleDress_T.jpg"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Belle Dress_52039.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Collar Left Front.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Collar Left.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Collar Right Front.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Collar Right.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Hips.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Skirt Length.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Adjust Waist.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Back Flatten.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Bell Shape 02.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Bell Shape.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Flare Bottom.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Front Flatten.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Left Flatten.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Pouf.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Right Flatten.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Swing Back.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Swing Forward.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Swing Left.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Swing Right.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Twist Left.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Twist Right.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Wind Back.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Wind Forward.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Wind Left.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/Skirt Wind Right.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMFootDwn_75_L.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMFootUp_40_R.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMShinBend_155_L.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMShinBend_155_R.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMShinBend_90_L.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMShinBend_90_R.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMThighFwd_115_L.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMThighFwd_115_R.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMThighSide_85_L.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/Morphs/Aave Nainen/Base/pJCMThighSide_85_R.dsf"/>
+    <SupportAsset VALUE="/data/JGreenlees/BelleDress/Belle Dress/UV Sets/JGreenlees/Base/default.dsf"/>
+   </SupportAssets>
+   <ObjectCompatibilities>
+    <ObjectCompatibility VALUE="/data/JGreenlees/BelleDress/Belle%20Dress/Belle%20Dress_52039.dsf#Belle%20Dress_52039%20" REF="/Belle Dress for Genesis 8 Females/Belle Dress"/>
+   </ObjectCompatibilities>
+  </Product>
+ </Products>
+</ContentDBInstall>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentDBInstall VERSION="1.0">
+ <Products>
+  <Product VALUE="Flounce Dress for G8F">
+   <StoreID VALUE="LOCAL USER"/>
+   <GlobalID VALUE="1fb5e407-ddc5-469a-b409-60776de3b6f2"/>
+   <ProductToken VALUE="8000000007"/>
+   <Artists>
+    <Artist VALUE="Art Tailor"/>
+   </Artists>
+   <Assets>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture01.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture02.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture03.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture04.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture05.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture06.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture07.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture08.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture09.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Dress Texture10.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture01.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture02.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture03.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture04.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture05.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture06.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture07.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture08.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture09.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/Materials Iray/Flounce Neck Texture10.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/FlounceDress.duf">
+     <Audience VALUE="Teens"/>
+     <Categories>
+      <Category VALUE="/Default"/>
+      <Category VALUE="/Default/Wardrobe"/>
+     </Categories>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+    <Asset VALUE="People/Genesis 8 Female/Clothing/ArtTailor/Flounce/FlounceNeckpiece.duf">
+     <Audience VALUE="Teens"/>
+     <Tags>
+      <Tag VALUE=""/>
+     </Tags>
+     <Userwords>
+      <Userword VALUE=""/>
+     </Userwords>
+    </Asset>
+   </Assets>
+   <SupportAssets VALUE="/Runtime/Support/LOCAL_USER_8000000007_Flounce_Dress_for_G8F.dsx"/>
+   <ObjectCompatibilities>
+    <ObjectCompatibility VALUE="/data/ArtTailor/Flounce/Flounce%20Dress/Flounce%20Dress_27747.dsf#Flounce%20Dress_27747" REF="/Flounce Dress for G8F/Flounce Dress"/>
+    <ObjectCompatibility VALUE="/data/ArtTailor/Flounce/Flounce%20Neckpiece/Flounce%20NeckPiece_1550.dsf#Flounce%20NeckPiece_1550" REF="/Flounce Dress for G8F/Flounce NeckPiece"/>
+   </ObjectCompatibilities>
+  </Product>
+ </Products>
+</ContentDBInstall>
